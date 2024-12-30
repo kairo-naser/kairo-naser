@@ -1,5 +1,5 @@
-# 💫 About Me:
-<br>Here's an updated version of your introduction, reflecting your skills and portfolio:<br><br>👋 Hi, I’m Umulkhair Abdinaser (Kairo Naser)<br><br>👀 I'm a junior Computer Science major with a deep passion for software development, web design, and user experience.<br><br>💡 With over two years of front-end development experience, I specialize in crafting visually engaging and highly user-friendly websites.<br><br>💻 My expertise spans a wide range of programming languages and frameworks, including:<br><br>Languages: Java, C#, HTML, CSS, JavaScript, Python<br>Frameworks: React, Bootstrap, Django, Tailwind<br>Tools: Figma (for UI/UX design)<br>🔗 You can check out my portfolio at kaironaser.com, where I showcase my projects in web development and design.
+# 💫 About me:
+<br>👋 Hi, I’m Umulkhair Abdinaser (Kairo Naser)<br><br>👀 I'm a junior Computer Science major with a deep passion for software development, web design, and user experience.<br><br>💡 With over two years of front-end development experience, I specialize in crafting visually engaging and highly user-friendly websites.<br><br>💻 My expertise spans a wide range of programming languages and frameworks, including:<br><br>Languages: Java, C#, HTML, CSS, JavaScript, Python<br>Frameworks: React, Bootstrap, Django, Tailwind<br>Tools: Figma (for UI/UX design)<br>🔗 You can check out my portfolio at kaironaser.com, where I showcase my projects in web development and design.
 
 
 ## 🌐 Socials:

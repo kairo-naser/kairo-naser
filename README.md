@@ -60,10 +60,6 @@ I'm less interested in simply collecting technologies and more interested in **l
 
 I'm documenting my journey toward becoming an AI Product Builder — the projects, experiments, lessons, failures, decisions, and everything in between.
 
-You can follow the journey here:
-
-**Instagram:** [@kairo100](https://instagram.com/kairo100)
-**Website:** [kaironaser.com](https://kaironaser.com)
 
 ---
 

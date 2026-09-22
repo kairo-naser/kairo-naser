@@ -1,5 +1,111 @@
-# 💫 About Me:
-# Hi, I'm Kairo 👋<br><br>### AI Product Builder in the making.<br><br>I’m a Computer Science graduate focused on building **AI-powered products** at the intersection of technology, product, and real-world problems.<br><br>I’m documenting the journey as I learn, build, experiment, fail, improve, and ship.<br><br>> **Build. Learn. Work. Fail. Improve. Create. Live. Document it.**<br><br>---<br><br>## 🚀 What I'm Building<br><br>I’m interested in products where technology and AI aren't just features, but actually make the product **more useful, intelligent, and valuable to people.**<br><br>My current focus includes:<br><br>* 🤖 AI-powered product development<br>* 💻 Full-stack web applications<br>* 🧠 AI & machine learning experiments<br>* 📦 Product thinking and development<br>* 🎨 UI/UX and user-centered design<br>* 🛠️ Building and shipping real projects<br><br>---<br><br>### AI Product Experiments<br><br>I'm experimenting with ways AI can be integrated into real products — from intelligent search and recommendations to automation, analysis, and decision-support features.<br><br>**Focus:** AI • Python • APIs • Product experimentation<br><br>---<br><br>## 🧠 Currently Learning<br><br>* AI & Machine Learning<br>* Python and the ML ecosystem<br>* Full-stack development<br>* Next.js & modern web development<br>* Backend architecture & APIs<br>* Databases and system design<br>* Product development<br>* Building and shipping independently<br><br>---<br><br>## 💡 How I Think<br><br>> **If it breaks, I fix it.**<br>> **If it works, I improve it.**<br>> **If I don't know it, I learn it.**<br><br>I'm less interested in simply collecting technologies and more interested in **learning how to turn ideas into products that actually work.**<br><br>---<br><br>## 📖 Building in Public<br><br>I'm documenting my journey toward becoming an AI Product Builder — the projects, experiments, lessons, failures, decisions, and everything in between.<br><br>You can follow the journey here:<br><br>**Instagram:** [@kairo100](https://instagram.com/kairo100)<br>**Website:** [kaironaser.com](https://kaironaser.com)<br><br><br>---<br><br>## 🎯 The Goal<br><br>I'm building toward a career where I can **understand a problem, design the product, build the technology, integrate AI where it creates real value, and eventually turn those products into something people use.**<br><br>This GitHub is part portfolio, part laboratory, and part record of the journey.<br><br>**Still building. 🚀**<br>
+# Hi, I'm Kairo 👋
+
+### AI Product Builder in the making.
+
+I’m a Computer Science graduate focused on building **AI-powered products** at the intersection of technology, product, and real-world problems.
+
+I’m documenting the journey as I learn, build, experiment, fail, improve, and ship.
+
+> **Build. Learn. Work. Fail. Improve. Create. Live. Document it.**
+
+---
+
+## 🚀 What I'm Building
+
+I’m interested in products where technology and AI aren't just features, but actually make the product **more useful, intelligent, and valuable to people.**
+
+My current focus includes:
+
+* 🤖 AI-powered product development
+* 💻 Full-stack web applications
+* 🧠 AI & machine learning experiments
+* 📦 Product thinking and development
+* 🎨 UI/UX and user-centered design
+* 🛠️ Building and shipping real projects
+
+---
+
+## 🔨 Current Projects
+
+### Smart Business Management System
+
+A business management platform designed to help businesses manage products, customers, orders, transactions, expenses, and business operations.
+
+**Focus:** Full-stack development • APIs • Product architecture • AI opportunities
+
+---
+
+### AI Product Experiments
+
+I'm experimenting with ways AI can be integrated into real products — from intelligent search and recommendations to automation, analysis, and decision-support features.
+
+**Focus:** AI • Python • APIs • Product experimentation
+
+---
+
+## 🧠 Currently Learning
+
+* AI & Machine Learning
+* Python and the ML ecosystem
+* Full-stack development
+* Next.js & modern web development
+* Backend architecture & APIs
+* Databases and system design
+* Product development
+* Building and shipping independently
+
+---
+
+## 💡 How I Think
+
+> **If it breaks, I fix it.**
+> **If it works, I improve it.**
+> **If I don't know it, I learn it.**
+
+I'm less interested in simply collecting technologies and more interested in **learning how to turn ideas into products that actually work.**
+
+---
+
+## 📖 Building in Public
+
+I'm documenting my journey toward becoming an AI Product Builder — the projects, experiments, lessons, failures, decisions, and everything in between.
+
+You can follow the journey here:
+
+**Instagram:** [@kairo100](https://instagram.com/kairo100)
+**Website:** [kaironaser.com](https://kaironaser.com)
+
+---
+
+## 🛠️ Tools & Technologies
+
+**Languages**
+Python • JavaScript • HTML • CSS
+
+**Frontend**
+React • Next.js • Tailwind CSS
+
+**Backend**
+Node.js • Express • Django • REST APIs
+
+**Data & AI**
+Python • Pandas • NumPy • scikit-learn
+
+**Databases & Tools**
+PostgreSQL • Prisma • Git • GitHub • Postman
+
+**Design**
+Figma • Canva • UI/UX
+
+---
+
+## 🎯 The Goal
+
+I'm building toward a career where I can **understand a problem, design the product, build the technology, integrate AI where it creates real value, and eventually turn those products into something people use.**
+
+This GitHub is part portfolio, part laboratory, and part record of the journey.
+
+**Still building. 🚀**
 
 
 ## 🌐 Socials:

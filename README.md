@@ -25,16 +25,6 @@ My current focus includes:
 
 ---
 
-## 🔨 Current Projects
-
-### Smart Business Management System
-
-A business management platform designed to help businesses manage products, customers, orders, transactions, expenses, and business operations.
-
-**Focus:** Full-stack development • APIs • Product architecture • AI opportunities
-
----
-
 ### AI Product Experiments
 
 I'm experimenting with ways AI can be integrated into real products — from intelligent search and recommendations to automation, analysis, and decision-support features.
@@ -74,28 +64,6 @@ You can follow the journey here:
 
 **Instagram:** [@kairo100](https://instagram.com/kairo100)
 **Website:** [kaironaser.com](https://kaironaser.com)
-
----
-
-## 🛠️ Tools & Technologies
-
-**Languages**
-Python • JavaScript • HTML • CSS
-
-**Frontend**
-React • Next.js • Tailwind CSS
-
-**Backend**
-Node.js • Express • Django • REST APIs
-
-**Data & AI**
-Python • Pandas • NumPy • scikit-learn
-
-**Databases & Tools**
-PostgreSQL • Prisma • Git • GitHub • Postman
-
-**Design**
-Figma • Canva • UI/UX
 
 ---
 
